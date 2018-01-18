@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets" >
+            <file
+                name="index.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\index.html" />
+            <file
+                name="Mui/js/mui.pullToRefresh.material.js"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\js\mui.pullToRefresh.material.js" />
+            <file
+                name="Mui/examples/offcanvas-drag-right-plus-menu.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\offcanvas-drag-right-plus-menu.html" />
+            <file
+                name="Mui/examples/input.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\input.html" />
+            <file
+                name="Mui/examples/tab-webview-main.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\tab-webview-main.html" />
+            <file
+                name="Mui/examples/offcanvas-drag-left-plus-menu.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\offcanvas-drag-left-plus-menu.html" />
+            <file
+                name="Mui/examples/im-chat.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\im-chat.html" />
+            <file
+                name="Mui/examples/offcanvas-drag-down.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\offcanvas-drag-down.html" />
+            <file
+                name="Mui/examples/buttons-with-badges.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\buttons-with-badges.html" />
+            <file
+                name="Mui/examples/tab-webview-subpage-setting.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\tab-webview-subpage-setting.html" />
+            <file
+                name="Mui/examples/tableviews-with-badges.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\tableviews-with-badges.html" />
+            <file
+                name="Mui/examples/list-with-input.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\list-with-input.html" />
+            <file
+                name="Mui/examples/ad.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\ad.html" />
+            <file
+                name="Mui/js/city.data-3.js"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\js\city.data-3.js" />
+            <file
+                name="Mui/examples/icons-extra.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\icons-extra.html" />
+            <file
+                name="Mui/examples/tab-top-subpage-2.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\tab-top-subpage-2.html" />
+            <file
+                name="Mui/examples/imageviewer-native.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\imageviewer-native.html" />
+            <file
+                name="Mui/js/mui.previewimage.js"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\js\mui.previewimage.js" />
+            <file
+                name="Mui/examples/tab-with-segmented-control-vertical.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\tab-with-segmented-control-vertical.html" />
+            <file
+                name="Mui/examples/tabbar-with-submenus.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\tabbar-with-submenus.html" />
+            <file
+                name="Mui/examples/info.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\info.html" />
+            <file
+                name="Mui/js/mui.min.js"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\js\mui.min.js" />
+            <file
+                name="Mui/examples/login.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\login.html" />
+            <file
+                name="Mui/images/muwu.jpg"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\images\muwu.jpg" />
+            <file
+                name="Mui/examples/guide.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\guide.html" />
+            <file
+                name="Mui/examples/tab-webview-subpage-about.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\tab-webview-subpage-about.html" />
+            <file
+                name="Mui/examples/tab-with-segmented-control.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\tab-with-segmented-control.html" />
+            <file
+                name="Mui/examples/modals.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\modals.html" />
+            <file
+                name="Mui/examples/offcanvas-drag-left.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\offcanvas-drag-left.html" />
+            <file
+                name="Mui/examples/tab-top-subpage-4.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\tab-top-subpage-4.html" />
+            <file
+                name="Mui/css/mui.listpicker.css"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\css\mui.listpicker.css" />
+            <file
+                name="Mui/examples/offcanvas-drag-right-plus-main.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\offcanvas-drag-right-plus-main.html" />
+            <file
+                name="Mui/examples/range.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\range.html" />
+            <file
+                name="Mui/examples/pullrefresh_with_tab.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\pullrefresh_with_tab.html" />
+            <file
+                name="Mui/examples/setting.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\setting.html" />
+            <file
+                name="Mui/manifest.json"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\manifest.json" />
+            <file
+                name="Mui/js/mui.poppicker.js"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\js\mui.poppicker.js" />
+            <file
+                name="Mui/js/mui.indexedlist.js"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\js\mui.indexedlist.js" />
+            <file
+                name="Mui/examples/actionsheet-plus.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\actionsheet-plus.html" />
+            <file
+                name="Mui/examples/feedback.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\feedback.html" />
+            <file
+                name="Mui/js/mui.imageViewer.js"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\js\mui.imageViewer.js" />
+            <file
+                name="Mui/examples/typography.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\typography.html" />
+            <file
+                name="Mui/examples/switches.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\switches.html" />
+            <file
+                name="Mui/js/mui.locker.js"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\js\mui.locker.js" />
+            <file
+                name="Mui/examples/tabbar.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\tabbar.html" />
+            <file
+                name="Mui/examples/buttons.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\buttons.html" />
+            <file
+                name="Mui/examples/actionsheet.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\actionsheet.html" />
+            <file
+                name="Mui/libs/echarts-all.js"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\libs\echarts-all.js" />
+            <file
+                name="Mui/examples/progressbar.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\progressbar.html" />
+            <file
+                name="Mui/examples/buttons-with-loading.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\buttons-with-loading.html" />
+            <file
+                name="Mui/css/mui.min.css"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\css\mui.min.css" />
+            <file
+                name="Mui/examples/pagination.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\pagination.html" />
+            <file
+                name="Mui/images/shuijiao.jpg"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\images\shuijiao.jpg" />
+            <file
+                name="Mui/index.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\index.html" />
+            <file
+                name="Mui/examples/tab-top-subpage-5.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\tab-top-subpage-5.html" />
+            <file
+                name="Mui/examples/message-bottom.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\message-bottom.html" />
+            <file
+                name="Mui/examples/lazyload-image.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\lazyload-image.html" />
+            <file
+                name="Mui/css/icons-extra.css"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\css\icons-extra.css" />
+            <file
+                name="Mui/css/mui.dtpicker.css"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\css\mui.dtpicker.css" />
+            <file
+                name="Mui/examples/media-list.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\media-list.html" />
+            <file
+                name="Mui/images/login-1.png"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\images\login-1.png" />
+            <file
+                name="Mui/examples/radio.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\radio.html" />
+            <file
+                name="Mui/examples/picker.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\picker.html" />
+            <file
+                name="Mui/examples/icons.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\icons.html" />
+            <file
+                name="Mui/examples/numbox.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\numbox.html" />
+            <file
+                name="Mui/examples/imageviewer.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\imageviewer.html" />
+            <file
+                name="Mui/fonts/mui.ttf"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\fonts\mui.ttf" />
+            <file
+                name="Mui/examples/checkbox.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\checkbox.html" />
+            <file
+                name="Mui/examples/tab-top-webview-main.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\tab-top-webview-main.html" />
+            <file
+                name="Mui/examples/badges.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\badges.html" />
+            <file
+                name="Mui/css/mui.picker.min.css"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\css\mui.picker.min.css" />
+            <file
+                name="Mui/examples/accordion.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\accordion.html" />
+            <file
+                name="Mui/js/95516.js"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\js\95516.js" />
+            <file
+                name="Mui/examples/ajax.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\ajax.html" />
+            <file
+                name="Mui/examples/slider-with-title.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\slider-with-title.html" />
+            <file
+                name="Mui/js/mui.view.js"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\js\mui.view.js" />
+            <file
+                name="Mui/examples/echarts.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\echarts.html" />
+            <file
+                name="Mui/examples/grid-pagination.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\grid-pagination.html" />
+            <file
+                name="Mui/js/mui.zoom.js"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\js\mui.zoom.js" />
+            <file
+                name="Mui/js/mui.dtpicker.js"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\js\mui.dtpicker.js" />
+            <file
+                name="Mui/js/mui.picker.js"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\js\mui.picker.js" />
+            <file
+                name="Mui/js/beecloud.js"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\js\beecloud.js" />
+            <file
+                name="Mui/examples/grid-default.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\grid-default.html" />
+            <file
+                name="Mui/examples/best-practices/list-to-detail/list-to-detail.css"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\best-practices\list-to-detail\list-to-detail.css" />
+            <file
+                name="Mui/examples/nav.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\nav.html" />
+            <file
+                name="Mui/js/mui.picker.min.js"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\js\mui.picker.min.js" />
+            <file
+                name="Mui/examples/slider-default.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\slider-default.html" />
+            <file
+                name="Mui/css/app.css"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\css\app.css" />
+            <file
+                name="Mui/examples/nav_transparent_native.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\nav_transparent_native.html" />
+            <file
+                name="Mui/js/arttmpl.js"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\js\arttmpl.js" />
+            <file
+                name="Mui/examples/nav-nativeObj.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\nav-nativeObj.html" />
+            <file
+                name="Mui/examples/indexed-list.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\indexed-list.html" />
+            <file
+                name="Mui/css/feedback.css"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\css\feedback.css" />
+            <file
+                name="Mui/js/update.js"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\js\update.js" />
+            <file
+                name="Mui/css/mui.imageviewer.css"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\css\mui.imageviewer.css" />
+            <file
+                name="Mui/js/mui.js"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\js\mui.js" />
+            <file
+                name="Mui/examples/dialog.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\dialog.html" />
+            <file
+                name="Mui/examples/best-practices/list-to-detail/detail.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\best-practices\list-to-detail\detail.html" />
+            <file
+                name="Mui/examples/tab-webview-subpage-chat.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\tab-webview-subpage-chat.html" />
+            <file
+                name="Mui/js/mui.pullToRefresh.js"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\js\mui.pullToRefresh.js" />
+            <file
+                name="Mui/examples/tab-webview-subpage-contact.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\tab-webview-subpage-contact.html" />
+            <file
+                name="Mui/examples/pullrefresh_sub.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\pullrefresh_sub.html" />
+            <file
+                name="Mui/examples/tab-vertical-scroll.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\tab-vertical-scroll.html" />
+            <file
+                name="Mui/examples/pullrefresh_main.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\pullrefresh_main.html" />
+            <file
+                name="Mui/images/yuantiao.jpg"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\images\yuantiao.jpg" />
+            <file
+                name="Mui/examples/offcanvas-drag-right.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\offcanvas-drag-right.html" />
+            <file
+                name="Mui/images/60x60.gif"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\images\60x60.gif" />
+            <file
+                name="Mui/examples/beecloud.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\beecloud.html" />
+            <file
+                name="Mui/css/mui.indexedlist.css"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\css\mui.indexedlist.css" />
+            <file
+                name="Mui/examples/slider-native.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\slider-native.html" />
+            <file
+                name="Mui/images/cbd.jpg"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\images\cbd.jpg" />
+            <file
+                name="Mui/css/mui.picker.css"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\css\mui.picker.css" />
+            <file
+                name="Mui/examples/tab-with-viewpagerindicator.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\tab-with-viewpagerindicator.html" />
+            <file
+                name="Mui/examples/buttons-with-block.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\buttons-with-block.html" />
+            <file
+                name="Mui/examples/tabbar-labels-only.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\tabbar-labels-only.html" />
+            <file
+                name="Mui/examples/buttons-with-icons.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\buttons-with-icons.html" />
+            <file
+                name="Mui/js/mui.listpicker.js"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\js\mui.listpicker.js" />
+            <file
+                name="Mui/examples/indexed-list-select.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\indexed-list-select.html" />
+            <file
+                name="Mui/js/mui.lazyload.js"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\js\mui.lazyload.js" />
+            <file
+                name="Mui/examples/slider-table-pagination.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\slider-table-pagination.html" />
+            <file
+                name="Mui/examples/date.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\date.html" />
+            <file
+                name="Mui/examples/best-practices/list-to-detail/vue.min.js"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\best-practices\list-to-detail\vue.min.js" />
+            <file
+                name="Mui/examples/nav_transparent.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\nav_transparent.html" />
+            <file
+                name="Mui/images/qrcode.png"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\images\qrcode.png" />
+            <file
+                name="Mui/js/city.data.js"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\js\city.data.js" />
+            <file
+                name="Mui/js/webviewGroup.js"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\js\webviewGroup.js" />
+            <file
+                name="Mui/examples/list-triplex-row.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\list-triplex-row.html" />
+            <file
+                name="Mui/examples/tableviews-with-collapses.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\tableviews-with-collapses.html" />
+            <file
+                name="Mui/examples/tableviews-with-swipe.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\tableviews-with-swipe.html" />
+            <file
+                name="Mui/examples/locker-dom.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\locker-dom.html" />
+            <file
+                name="Mui/js/feedback.js"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\js\feedback.js" />
+            <file
+                name="Mui/examples/clouddb_wilddog.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\clouddb_wilddog.html" />
+            <file
+                name="Mui/examples/tab-top-subpage-3.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\tab-top-subpage-3.html" />
+            <file
+                name="Mui/index-menu.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\index-menu.html" />
+            <file
+                name="Mui/examples/slider-table-default.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\slider-table-default.html" />
+            <file
+                name="Mui/examples/best-practices/list-to-detail/listview.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\best-practices\list-to-detail\listview.html" />
+            <file
+                name="Mui/js/mui.lazyload.img.js"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\js\mui.lazyload.img.js" />
+            <file
+                name="Mui/css/mui.poppicker.css"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\css\mui.poppicker.css" />
+            <file
+                name="Mui/css/mui.picker.all.css"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\css\mui.picker.all.css" />
+            <file
+                name="Mui/examples/card.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\card.html" />
+            <file
+                name="Mui/examples/dtpicker.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\dtpicker.html" />
+            <file
+                name="Mui/examples/pullrefresh.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\pullrefresh.html" />
+            <file
+                name="Mui/images/logo.png"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\images\logo.png" />
+            <file
+                name="Mui/examples/popovers.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\popovers.html" />
+            <file
+                name="Mui/examples/tab-top-subpage-1.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\tab-top-subpage-1.html" />
+            <file
+                name="Mui/js/mui.picker.all.js"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\js\mui.picker.all.js" />
+            <file
+                name="Mui/examples/offcanvas-drag-left-plus-main.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\offcanvas-drag-left-plus-main.html" />
+            <file
+                name="Mui/examples/tableviews.html"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\examples\tableviews.html" />
+            <file
+                name="Mui/fonts/mui-icons-extra.ttf"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\fonts\mui-icons-extra.ttf" />
+            <file
+                name="Mui/js/ad.js"
+                path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\main\assets\Mui\js\ad.js" />
+        </source>
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="D:\BaiduNetdiskDownload\android\AndroidWeb\AndroidWeb\src\debug\assets" />
+    </dataSet>
+
+</merger>
